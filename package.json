@@ -1,5 +1,5 @@
 {
-  "name": "Simple 3D Projectile Simulator",
+  "name": "simple-3d-projectile-simulator",
   "private": true,
   "version": "0.0.0",
   "type": "module",
@@ -14,5 +14,10 @@
     "cannon-es": "^0.20.0",
     "lil-gui": "^0.17.0",
     "three": "^0.148.0"
-  }
+  },
+  "description": "",
+  "main": "vite.config.js",
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
 }
